@@ -1,0 +1,29 @@
+.title {
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 2px yellow;
+}
+
+.fieldset {
+    background-color: cyan;
+}
+
+.legend {
+    background-color: red;
+    color: white;
+}
+
+.placeholder {
+    background-color: yellow;
+}
+
+.espacio {
+    margin-right: 25px;
+}
+
+.showButton {
+    background-color: salmon;
+    width: 100px;
+    white-space: normal;
+    text-align: center;
+}
